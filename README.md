@@ -19,14 +19,16 @@ This is a **Digital Logic Design** project. A **Traffic Light Controller** is de
 | 🔴 Red | 5 seconds |
 
 ## 📂 Project Structure
-TrafficLightController/
-├── Circuit/
-│ ├── code.ino # Arduino source code
-│ └── Circuit.png # Tinkercad circuit screenshot
-├── 3D_Model/
-│ ├── design.stl # 3D printable body mesh
-│ └── enclosure_preview.png # Isometric view of 3D model
-└── Report.docx # Project report
+
+
+TrafficLightController/ 
+├── Circuit/  
+│ ├── code.ino # Arduino source code  
+│ └── Circuit.png # Tinkercad circuit screenshot  
+├── 3D_Model/  
+│ ├── design.stl # 3D printable body mesh   
+│ └── enclosure_preview.png # Isometric view of 3D model  
+└── Report.docx # Project report   
 
 
 
