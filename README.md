@@ -21,7 +21,8 @@ This is a **Digital Logic Design** project. A **Traffic Light Controller** is de
 ## 📂 Project Structure
 
 
-TrafficLightController/ 
+TrafficLightController/           
+
 ├── Circuit/  
 │ ├── code.ino # Arduino source code  
 │ └── Circuit.png # Tinkercad circuit screenshot  
